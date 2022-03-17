@@ -1,5 +1,5 @@
 #count how often each char appear in text
-message = 'It was a bright cold day in April, and the clocks were striking thirteen.'
+message = 'life is like riding a bicycle. To keep your balance, you must keep moving'
 count = {}
 for character in message:
   count.setdefault(character, 0)
